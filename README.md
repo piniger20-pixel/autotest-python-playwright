@@ -19,14 +19,13 @@
 ## Структура проекта
 
 - `Project Root/`
-  - env
+  - test/` - папка с автотестами
   - `fixtures/`
   - `helpers/`
   - `utils/`
-    - `business_steps/`
-    - `steps/`
-  - `qa_agent/`
-  - `scripts/`
+    - `business_steps/`Бизнес шаги
+    - `steps/`Шаги для тестов
+  - `requirments/`
   - `config.py`
 
 ### Требования
