@@ -1,3 +1,5 @@
+# Репозиторий создан для демонстрации подходов к автоматизации, архитектуры тестов и стиля кода.
+
 ## Список тестов
 
 | № | Название теста | Что проверяет |
@@ -17,15 +19,7 @@
 ## Структура проекта
 
 - `Project Root/`
-  - `tests/`
-    - `conftest.py`
-    - `e2e/`
-  - `pages/`
-    - `base_page.py`
-    - `login_page.py`
-    - `dashboard_page.py`
-  - `components/`
-  - `elements/`
+  - env
   - `fixtures/`
   - `helpers/`
   - `utils/`
