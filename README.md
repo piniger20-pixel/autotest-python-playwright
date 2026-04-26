@@ -25,7 +25,7 @@
   - `utils/`
     - `business_steps/`Бизнес шаги
     - `steps/`Шаги для тестов
-  - `requirments/`
+  - `requirments.txt
   - `config.py`
 
 ### Требования
